@@ -1,2 +1,2 @@
-# panel
-Güneşin konumuna göre hareket eden prototip sistem.
+# Isı Nem
+Ortak sıcaklığını ve nemini ölçen sistem
